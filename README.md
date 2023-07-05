@@ -14,7 +14,7 @@ Here is a preliminary BOM for my version of the CW Messenger.  The biggest diffe
 | U5 | Rotary Encoder | [PEC11R-4230K-S0024](https://www.mouser.com/ProductDetail/652-PEC11R4230KS0024) | $2.16 |  |
 | Q1 | NPN Transistor | [2N3904](https://www.mouser.com/ProductDetail/637-2N3904) | $0.42 | 10 @ $1.40 |
 | D1 | Reverse Polarity Diode | [BAT48](https://www.mouser.com/ProductDetail/511-BAT48) | $0.47 | SCHR msg #21252. I used a Schottky diode |
-| R1 | Potentiameter | [PDB181-B225K-503B](https://www.mouser.com/ProductDetail/652-PDB181-B225K503B) | $1.52 | select as needed by buzzer; 50k here, text suggests 75k for loud buzzer; SCHR msg #21252 indicates `10k?` |
+| R1 | Potentiometer | [PDB181-B225K-503B](https://www.mouser.com/ProductDetail/652-PDB181-B225K503B) | $1.52 | select as needed by buzzer; 50k here, text suggests 75k for loud buzzer; SCHR msg #21252 indicates `10k?` |
 | C1, C2 | 100 uF | [RGA101M1EBK-0611G](https://www.mouser.com/ProductDetail/Lelon/RGA101M1EBK-0611G?qs=pNDdEcSXiOD7yLUz3NUJrA%3D%3D) | $0.12 | value from SCHR msg #21252 |
 | C3 | 10 uF | [667-EEA-GA1E100H](https://www.mouser.com/ProductDetail/Panasonic/EEA-GA1E100H?qs=0h1gzos03f1yprFRE2oW8A%3D%3D) | $0.28 | value from SCHR msg #21252; 10 @ $1.27 |
 | S1, S2, S3 | Pushbutton Switch | [PS1024AT-BLK](https://www.mouser.com/ProductDetail/612-PS1024ABLK) | $1.42 |  |
