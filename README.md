@@ -34,3 +34,5 @@ Here is a preliminary BOM for my version of the CW Messenger.  The biggest diffe
 * Pricing as of 7/4/2023.
 * Other size cases may work as well.  I may make mine a handheld using with CM5-200 or CM5-125.
 * Other items needed: wire, display and protoboard mounting hardware.
+
+7/29/2023 Update:  The buzzer above requires an external source to buzz, something the CW Messenger doesn't provide.  As is it only clicks, and poorly at that.  You'll either want to replace this with an actual buzzer or wait to see what I do.  Hint: I'm hoping to utilize the buzzer specified above by incorporating some software from the author's Morse Code Tutor project.
